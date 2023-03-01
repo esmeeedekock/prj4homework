@@ -21,15 +21,23 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #B6DBB8;
+    background-color: #A5C3A8;
 }
 
 .resume-main {
-	background-color: #E8F3E8;
+	background-color: rgba(232,243,232,1.00);
 }
 
 .resume-aside {
 	background-color: #ADBFB6;
+}
+
+.bg-warning {
+	background-color:rgba(232,243,232,1.00)!important;
+}
+
+.border-info {
+	border-color: rgba(135,137,135,1.00)!important;
 }
 
 /* Styles for lists in the document */
