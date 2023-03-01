@@ -25,15 +25,15 @@ body {
 }
 
 .resume-main {
-	background-color: rgba(232,243,232,1.00);
+	background-color: #FFFFFF;
 }
 
 .resume-aside {
-	background-color: #ADBFB6;
+	background-color: rgba(232,243,232,1.00);
 }
 
 .bg-warning {
-	background-color:rgba(232,243,232,1.00)!important;
+	background-color:#A5C3A8!important;
 }
 
 .border-info {
